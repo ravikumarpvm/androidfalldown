@@ -1,0 +1,2 @@
+A simple game of falldown to be played on Android devices.
+Platforms with a hole in them move upwards and you attempt to tilt the device so the ball "falls down" into the holes. Hitting the top of the screen results in a loss.
